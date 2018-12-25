@@ -41,7 +41,7 @@ def c_request_response(r, *args, **kwargs):
 
     # Display the results on the OLED display.
     if oled_display and probability >= IMAGE_CLASSIFY_THRESHOLD:
-        text = 'L: {}, P: {:.2f}'.format(label, probability)
+        text = 'C: {}, P: {:.2f}'.format(label, probability)
         oled_display.println(text)
 
     # Send the prediction to IoT Edge.
