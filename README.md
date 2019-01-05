@@ -1,12 +1,21 @@
-# Azure IoT Starter Kits
+# Azure IoT Edge: Rem Demo
 
-This repository contains code and instructions for deploying code to Azure IoT starter kits. Each project is a proof-of-concept and designed as a learning experience. Projects are specific to a manufacturer's device.
+This repository contains code and instructions based in Azure IoT starter kits repo. Each project is a proof-of-concept and designed as a learning experience. Projects are specific to a manufacturer's device.
+All brands belongs to respective owners, All software is Open Source reusable under MIT License.
+
+## Skills set
+
+* Knowledge of Python, C#, bash, Git, Linux, Windows
+* docker, virtualization, Ms Azure, IoT Eddge
+* Data engineering, tensor flow, MS ML, model training
 
 ## Manufacturers
 
 Projects exist for the following manufacturers:
 
 * [seeed](seeed/README.md)
+
+Thanks to Microsoft and Seeed company for all support.
 
 ## Getting Started
 
