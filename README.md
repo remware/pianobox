@@ -5,7 +5,7 @@ This repository contains code and instructions based in Azure IoT starter kits r
 ## Skills set
 
 * Knowledge of Python, C#, bash, Git, Linux, Windows
-* docker, virtualization, Ms Azure, IoT Eddge
+* docker, virtualization, Ms Azure, IoT Edge
 * Data engineering, tensor flow, MS ML, model training
 
 ## Project Seeed
